@@ -11,6 +11,7 @@
 #### Programming Languages:
 
 <div align="center"> 
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="40">
