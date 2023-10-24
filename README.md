@@ -3,8 +3,8 @@
 
 ### 📊 Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lavish440&show_icons=true&theme=radical&hide_broder=true" alt="Lavish's GitHub stats" width="48%" > <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lavish440&theme=github_dark&hide_border=true" alt="Lavish's GitHub streak" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=lavish440&show_icons=true&theme=radical&hide_broder=true" alt="Lavish's GitHub stats" width="100%" > <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lavish440&theme=github_dark&hide_border=true" alt="Lavish's GitHub streak" width="100%" >
 </div>
 
 ### 🛠️ Skills and Tools:
